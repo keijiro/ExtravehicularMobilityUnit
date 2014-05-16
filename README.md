@@ -1,3 +1,5 @@
+![screenshot](http://keijiro.github.io/ExtravehicularMobilityUnit/screenshot.png)
+
 This is a 3D model of the Extravehicular Mobility Unit (EMU) which is originally made by NASA.
 The original file is provided on the NASA website.
 
